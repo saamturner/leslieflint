@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-16T21:30:41.594Z",
+  "created_by": "saamturner",
+  "title": "Arthur Conan Doyle Communicates",
+  "slug": "arthur-conan-doyle-c",
+  "updated_at": "2024-10-16T21:30:41.594Z",
+  "updated_by": "saamturner",
+  "parent": "35204045-f972-45b4-84fa-aceda8647941",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "bf177c35-f43c-46ac-91ab-a1a4ff293c22"
+  }
+}

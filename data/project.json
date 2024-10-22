@@ -57,10 +57,6 @@
           "category": "Voice"
         },
         {
-          "tag": "Laughing",
-          "category": "Voice"
-        },
-        {
           "tag": "Banging",
           "category": "Environment"
         },
@@ -123,6 +119,6 @@
       ]
     },
     "created_at": "2024-10-08T18:15:03.414Z",
-    "updated_at": "2024-10-21T18:23:14.026Z"
+    "updated_at": "2024-10-22T14:56:18.776Z"
   }
 }
